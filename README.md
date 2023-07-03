@@ -1,2 +1,4 @@
-# almabettergit
-our first git repository
+First commit
+done h++-ere+
+
+vi editor samjh gya.
